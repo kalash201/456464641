@@ -1,6 +1,6 @@
-token=NDkyOTA2MDc5MzYyMjIwMDQy.DodOHQ.ISbGHKW_s9Dirci4gjvK5IbZ-3k
-owner=421210436646731776
-prefix=6
-game=Tybe 6help
+token=NDk3NTgyNzE0ODQ1NjU5MTY0.DphRjA.A1lG12-SK4hUgcaGJ3pYn3QJ0x4
+owner=464046823162511400
+prefix=4
+game=Tybe 4help
 stayinchannel=true
 songinstatus=true
